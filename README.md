@@ -1,18 +1,11 @@
-## Getting Started
+# Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a program written in VS Code for practice with GUI. It takes in temperatures from a JTextBox and converts it to fahrenheit if celcius is inputted and celcius if fahrenheit is inputted. 
 
-## Folder Structure
+## Languages
 
-The workspace contains two folders by default, where:
+`Java`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Collaboration
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+I am open to collaborating on fun projects!
